@@ -16,8 +16,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 | File | Description | Attributes |
 |----------|----------|----------|
 | base_model.py|BaseModel class for all the other classes | id, created_at, updated_at| 
-| user.py | User class for future user information | email, password, first_name, last_name
-|
+| user.py | User class for future user information | email, password, first_name, last_name|
 | amenity.py | Amenity class for future amenity information	 | name |
 | city.py| City class for future location information	 | state_id, name |
 | state.py | State class for future location information | name |
