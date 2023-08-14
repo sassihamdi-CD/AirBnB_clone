@@ -1,13 +1,6 @@
 #!/usr/bin/python3
 """Defines the BaseModel class."""
-<<<<<<< HEAD
 import models
-=======
-<<<<<<< HEAD
-import models
-=======
->>>>>>> 2858130a7d14e3b8dc76cd2be98f0952339df1f4
->>>>>>> 17a1f8ad88bd5a4af428bfaa3722c72f14a396d2
 from uuid import uuid4
 from datetime import datetime
 
