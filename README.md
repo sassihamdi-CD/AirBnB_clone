@@ -34,5 +34,5 @@ The init.py file contains the instantiation of the FileStorage class called stor
 All the code is tested with the unittest module. The test for the classes are in the test_models folder.
 ## Authors
 - [@sassihamdi](https://www.github.com/hamdisassi-cd)
-- [@Tsegaye Chanie](https://www.github.com/Tsegaye16)
+
 
